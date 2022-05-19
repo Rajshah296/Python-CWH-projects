@@ -1,0 +1,7 @@
+[2022-03-28 02:31:59.338080] : Roti and Paneer Butter Masala
+[2022-03-28 02:33:56.522788] : Masala Khichdi and Kadhi
+[2022-03-28 02:48:18.774869] : Roti ane sev tameta nu saak 
+[2022-03-28 03:48:17.535693] : Papad
+[2022-03-31 11:35:39.671986] : Roti and Sabji
+[2022-03-31 11:35:59.043096] : Dal Bati
+[2022-03-31 14:04:45.056678] : Roti and sabji
