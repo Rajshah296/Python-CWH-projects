@@ -2,7 +2,7 @@
 
 def main()  : 
     print("Enter -1 for exit")
-    while(1) : 
+    while(1) :
         try : 
             no = int(input("Enter the desired number : "))
             if(no == -1) : break
