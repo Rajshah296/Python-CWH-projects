@@ -64,7 +64,7 @@ def main() :
         print("******Rules******\n\n1.Be Honest to yourself for your good.\n2.Never forget the 1st rule.")
         # Create some files if already not created.
         water_time,eyes_time,exercise_time = time.time(), time.time(),time.time()
-        End_time = datetime.datetime.hour(17) 
+        End_time = datetime.datetime.hour(23) 
         while(1) : 
             if(End_time - gettime() >= total_duration_Exercise2) :
                 if((time.time() - eyes_time  > total_duration_eyes)) : 
